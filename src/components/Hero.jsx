@@ -7,14 +7,13 @@ const Hero = () => {
     <div className="hero-container">
       <Image src='/images/profile.jpeg' className="profile-img" width={300} height={300} alt="Joe's personal headshot" />
       <div className="hero-text">
-        <h1>Hey, I'm Joe 👋</h1>
+        <h1>Julio Noguera</h1>
         <p>
-          I'm a software developer based in Lagos, Nigeria. I specialize in building (and occasionally designing)
-          exceptional websites, applications, and everything in between.
+          I'm a SAP ABAP Developer.
         </p>
         <div className="social-icons">
           <a
-            href="https://twitter.com/olawanle_joel"
+            href="https://twitter.com/julionoguera"
             aria-label="Twitter"
             target="_blank"
             rel="noopener noreferrer"
@@ -22,7 +21,7 @@ const Hero = () => {
             <i className="fa-brands fa-twitter"></i>
           </a>
           <a
-            href="https://github.com/olawanlejoel"
+            href="https://github.com/julionoguera"
             aria-label="GitHub"
             target="_blank"
             rel="noopener noreferrer"
@@ -30,7 +29,7 @@ const Hero = () => {
             <i className="fa-brands fa-github"></i>
           </a>
           <a
-            href="https://www.linkedin.com/in/olawanlejoel/"
+            href="https://www.linkedin.com/in/julionoguera/"
             aria-label="LinkedIn"
             target="_blank"
             rel="noopener noreferrer"
