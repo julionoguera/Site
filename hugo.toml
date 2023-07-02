@@ -1,0 +1,18 @@
+baseURL = 'http://julionoguera.com/'
+languageCode = 'en-us'
+title = 'About Me'
+theme = 'm10c'
+
+[params]
+  author = "Julio Noguera"
+  description = "SAP ABAP Developer"
+
+ [[params.social]]
+  icon = "linkedin"
+  name = "linkedIn"
+  url = "https://linkedin.com/in/julionoguera/"
+
+  [[params.social]]
+  icon = "github"
+  name = "My Github"
+  url = "https://github.com/julionoguera"
