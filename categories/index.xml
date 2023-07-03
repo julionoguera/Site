@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on About Me</title>
-    <link>http://julionoguera.com/categories/</link>
-    <description>Recent content in Categories on About Me</description>
+    <title>Categories on Julio Noguera</title>
+    <link>https://julionoguera.com/categories/</link>
+    <description>Recent content in Categories on Julio Noguera</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://julionoguera.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language><atom:link href="https://julionoguera.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
